@@ -1,0 +1,10 @@
+.*
+!.gitignore
+venv
+main_config.py
+test*
+__pycache__
+*log
+log
+settings.json
+.pytest*
